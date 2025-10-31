@@ -3,6 +3,5 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  base : "/yts_movie_app/"
+  plugins: [react()]
 })
